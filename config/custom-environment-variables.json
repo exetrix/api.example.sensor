@@ -1,0 +1,9 @@
+{
+    "database": {
+        "mongo": {
+            "uri": "DB_MONGO_URI",
+            "database": "DB_MONGO_DATABASE_NAME",
+            "collection": "DB_MONGO_COLLECTION_NAME"
+        }
+    }
+}
