@@ -25,3 +25,5 @@ curl -v -XPUT -H "Content-Type: application/json" -H "Accept: application/json" 
 ```
 curl -v -G -H "Content-Type: application/json" -H "Accept: application/json" http://localhost:3000/data --data-urlencode "sensorId=SomeSensor" --data-urlencode "since=2020-09-09T13:00:00Z" --data-urlencode "until=2020-09-09T13:30:00Z"
 ```
+
+A dummy line
